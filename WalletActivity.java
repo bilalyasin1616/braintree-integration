@@ -39,8 +39,8 @@ public class WalletActivity extends AppCompatActivity {
 
 
     private static final int REQUEST_CODE = 1234;
-    String API_GET_TOKEN="http://braintree.ngrok.io/braintree/main.php";
-    String API_CHECKOUT="http://braintree.ngrok.io/braintree/checkout.php";
+    String API_GET_TOKEN="Your token url";
+    String API_CHECKOUT="Your checkout url";
 
     String token,amount;
     HashMap<String,String> paramsHash;
