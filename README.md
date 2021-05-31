@@ -9,5 +9,3 @@ Instuctions
 6) Hopefully you are ready to go =D
 
 If you find any issue report it via issues section. I will try to keep the code updated.
-
-P.S: I have add code via browser so don't judge me by the commits :p
